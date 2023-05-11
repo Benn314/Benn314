@@ -14,7 +14,7 @@ Hello，我是凌云木，一名热爱技术和开源的24届准前端工程师�
 - <img src="README.assets/happy.gif" alt="GIF" style="width:20px;" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Rocket.gif" alt="img" style="width:20px;" />
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/hmm.gif" alt="GIF" style="width:20px;" /> I’m *currently learning* how to **flex README** on my **profile** <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" alt="img" style="width:25px;" />
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/powerup.gif" alt="GIF" style="width:20px;" /> I like *mushrooms* that makes Mario grow bigger
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/coin.gif" alt="GIF" style="width:20px;" /> *At the same time*, I'm also *keen on collecting coins*.
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/coin.gif" alt="GIF" style="width:20px;" /> *At the same time*, I'm also *keen on collecting coins*
 
 ​	
 
