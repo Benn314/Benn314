@@ -1,7 +1,7 @@
 <h1 align="center">Ben
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Mario_Hello_Big.gif" alt="img" style="zoom:5%;" /></h1>
 
-Hi！I'm Ben <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" alt="img" style="zoom:10%;" />
+Hi！I'm Ben <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" alt="img" style="width:3%;" />
 
 Hello，我是凌云木，一名热爱技术和开源的24届准前端工程师，就读于广州新华学院(本科)<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/wave.gif" alt="GIF" style="zoom:20%;" />
 
