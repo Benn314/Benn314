@@ -7,8 +7,8 @@ Hi！I'm Ben <img src="README.assets/Hi.gif" alt="img" style="width:20px;" />
 Hello，我是凌云木，一名热爱技术和开源的24届准前端工程师，就读于广州新华学院(本科) <img src="README.assets/wave.gif" alt="GIF" style="width:20px;" />
 
 - 🌱 Front-end learning：2022.07.26 -- 至今
-- 📫 Connect with me：[209441806@qq.com](mailto:209441806@qq.com)
-  - 我的语雀学习仓库：[点击进入]()
+- 📫 Connect with me：[ben43@foxmail.com](mailto:ben43@foxmail.com)
+  - 我的语雀知识花园：[点击进入](https://www.yuque.com/ben43)
   - 这是我的掘金博客：[点击进入](https://juejin.cn/user/1451788217357559)
   - 这是我的个人网站：[点击进入](https://ben314.top)
   - <img src="README.assets/微信.png" alt="微信" style="width:13px;" /> Wechat：Ben__314
