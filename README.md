@@ -1,7 +1,8 @@
-<div align="center">
-	<img src="README.assets/Mario_Hello_Big.gif" alt="GIF" style="width:35px;" />
-</div>
-<h1 align="center">Ben</h1>
+<h1 align="center">Ben
+	<div align="center" style="display: inline-block;">
+		<img src="README.assets/Mario_Hello_Big.gif" alt="GIF" style="width:35px;" />
+	</div>
+</h1>
 
 
 
