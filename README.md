@@ -4,7 +4,7 @@
 
 
 
-Hi！I'm Ben <img src="README.assets/Hi.gif" alt="img" style="width:20px;" />
+Hi！I'm Ben <img src="README.assets/Mario_Hello_Big.gif" alt="GIF" style="width:35px;" />
 
 Hello，我是凌云木，一名热爱技术和开源的24届准前端工程师，就读于广州新华学院(本科) <img src="README.assets/wave.gif" alt="GIF" style="width:20px;" />
 
