@@ -1,6 +1,6 @@
-<center>
+<div align="center">
 	<img src="README.assets/Mario_Hello_Big.gif" alt="GIF" style="width:35px;" />
-</center>
+</div>
 <h1 align="center">Ben</h1>
 
 
