@@ -1,7 +1,5 @@
 <h1 align="center">Ben
-<p align="center">
-  <img src="README.assets/Mario_Hello_Big.gif" alt="GIF" style="width:45px;" />
-</p>
+  <img src="README.assets/hmm.gif" alt="GIF" style="width:20px;" />
 </h1>
 
 
