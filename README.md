@@ -1,5 +1,7 @@
-<h1 align="center">Ben
+<div style="display: flex;justify-content: center;align-items: center;">
+<h1>Ben
 <img src="README.assets/Mario_Hello_Big.gif" alt="img" style="display: inline-block;width:45px;vertical-align: middle;" /></h1>
+</div>
 
 
 
