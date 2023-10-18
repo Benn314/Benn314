@@ -1,5 +1,5 @@
 <div style="display:flex;justify-content:center;align-item:center;">
-    <span style="display:inline-block;font-size: 35px;font-weight: bold;">Ben</span>
+    <h1 style="display:inline-block;">Ben</h1>
     <img src="README.assets/Mario_Hello_Big.gif" alt="GIF" style="width:35px;" />
 </div>
 
