@@ -1,4 +1,4 @@
-<h1 align="center">Ben <img src="README.assets/Mario_Hello_Big.gif" alt="GIF" style="width:45px;" /></h1>
+<h1 align="center" style="display: inline;">Ben <img src="README.assets/Mario_Hello_Big.gif" alt="GIF" style="width:45px; vertical-align: middle;" /></h1>
 
 Hi！I'm Ben <img src="README.assets/Hi.gif" alt="img" style="width:20px;" />
 
