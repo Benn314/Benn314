@@ -6,14 +6,11 @@
 
 Hi！I'm Ben <img src="README.assets/Mario_Hello_Big.gif" alt="GIF" style="width:16px;" />
 
-Hello，我是凌云木，一名热爱技术和开源的24届准前端工程师，就读于广州新华学院(本科) <img src="README.assets/wave.gif" alt="GIF" style="width:20px;" />
+Hello，我是凌云木，一名热爱技术和开源的24届准前端工程师（备考25考研ing） <img src="README.assets/wave.gif" alt="GIF" style="width:20px;" />
 
-- 🌱 Front-end learning：2022.07.26 -- 至今
+- 🌱 Front-end learning：2022.07.26 -- 2023.09.22
 - 📫 Connect with me：[ben43@foxmail.com](mailto:ben43@foxmail.com)
-  - 我的语雀知识花园：[点击进入](https://www.yuque.com/ben43)
   - 这是我的掘金博客：[点击进入](https://juejin.cn/user/1451788217357559)
-  - 这是我的个人网站：[点击进入](https://ben314.top)
-  - <img src="README.assets/微信.png" alt="微信" style="width:13px;" /> Wechat：Ben__314
 - <img src="README.assets/hmm.gif" alt="GIF" style="width:20px;" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** <img src="README.assets/Rocket.gif" alt="img" style="width:20px;" />
 - <img src="README.assets/happy.gif" alt="GIF" style="width:20px;" /> I’m *currently learning* how to **flex README** on my **profile** <img src="README.assets/编程猫.gif" alt="img" style="width:25px;" />
 - <img src="README.assets/powerup.gif" alt="GIF" style="width:21px;" /> I like *mushrooms* that *makes Mario grow bigger*
@@ -25,6 +22,7 @@ Hello，我是凌云木，一名热爱技术和开源的24届准前端工程师�
 <span>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benn314&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" alt="Top Langs" height=190 style="border:0"/>
 </span><span>
-    <img src="https://github-readme-stats.vercel.app/api?username=Benn314&show_icons=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" alt="yaya-bb's GitHub stats" height=190/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Benn314&show_icons=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" alt="Benn314's GitHub stats" height=190/>
 </span>
 </div>
+
