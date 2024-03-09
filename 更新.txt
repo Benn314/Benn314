@@ -1,7 +1,0 @@
-- star一个自我介绍还不错，去看看（有小猫！）
-	- 做个折叠
-	- 把小猫放在里面（位于Ben‘s Github Stats的右上方）
-
-- 有空添加一个自动机，自动获取github账号信息 网上有
-
-- 部署github-readme-stats.vercel.app和github-readme-stats.vercel.app到自己的vercel，官网有教程

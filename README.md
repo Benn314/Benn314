@@ -2,13 +2,13 @@
 	<img src="README.assets/Mario_Hello_Big.gif" alt="GIF" style="width:35px;" />
 </h1>
 
-Hi！I'm Ben <img src="README.assets/Mario_Hello_Big.gif" alt="GIF" style="width:16px;" />
+Hi！I'm Ben <img src="README.assets/Hi.gif" alt="GIF" style="width:16px;" />
 
 Hello，我是凌云木，一名热爱技术和开源的24届准前端工程师（备战25考研ing） <img src="README.assets/wave.gif" alt="GIF" style="width:20px;" />
 
 - 🌱 Front-end learning：2022.07.26 -- 2023.09.22
 - 📫 Connect with me：[ben43@foxmail.com](mailto:ben43@foxmail.com)
-  - 这是我的掘金博客：[点击进入](https://juejin.cn/user/1451788217357559)
+  - 这是我的掘金主页：[点击进入](https://juejin.cn/user/1451788217357559)
 - <img src="README.assets/hmm.gif" alt="GIF" style="width:20px;" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** <img src="README.assets/Rocket.gif" alt="img" style="width:20px;" />
 - <img src="README.assets/happy.gif" alt="GIF" style="width:20px;" /> I’m *currently learning* how to **flex README** on my **profile** <img src="README.assets/编程猫.gif" alt="img" style="width:25px;" />
 - <img src="README.assets/powerup.gif" alt="GIF" style="width:21px;" /> I like *mushrooms* that *makes Mario grow bigger*
