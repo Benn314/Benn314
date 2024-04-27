@@ -14,11 +14,11 @@ Hello，我是凌云木，一名热爱技术和开源的24届准前端工程师�
 - <img src="README.assets/powerup.gif" alt="GIF" style="width:21px;" /> I like *mushrooms* that *makes Mario grow bigger*
 - <img src="README.assets/coin.gif" alt="GIF" style="width:20px;" /> *At the same time*, I'm also *keen on collecting coins*
 
-
 <div align="center">
 <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benn314&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" alt="Top Langs" height=190 style="border:0"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benn314&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" alt="Top Langs" width=45% style="border:0"/>
 </span><span>
-    <img src="https://github-readme-stats.vercel.app/api?username=Benn314&show_icons=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" alt="Benn314's GitHub stats" height=190/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Benn314&show_icons=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" alt="Benn314's GitHub stats" width=49%/>
 </span>
 </div>
+
