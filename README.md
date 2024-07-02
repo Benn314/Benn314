@@ -4,7 +4,7 @@
 
 Hi！I'm Ben <img src="README.assets/Hi.gif" alt="GIF" style="width:16px;" />
 
-Hello，我是凌云木，一名热爱技术和开源的24届准前端工程师（备战25考研ing） <img src="README.assets/wave.gif" alt="GIF" style="width:20px;" />
+Hello，我是凌云木，一名热爱技术和开源的24届准前端工程师 <img src="README.assets/wave.gif" alt="GIF" style="width:20px;" />
 
 - 🌱 Front-end learning：2022.07.26 -- 2023.09.22
 - 📫 Connect with me：[ben43@foxmail.com](mailto:ben43@foxmail.com)
@@ -21,4 +21,3 @@ Hello，我是凌云木，一名热爱技术和开源的24届准前端工程师�
     <img src="https://github-readme-stats.vercel.app/api?username=Benn314&show_icons=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" alt="Benn314's GitHub stats" width=49%/>
 </span>
 </div>
-
