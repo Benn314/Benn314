@@ -16,10 +16,10 @@ Hello，我是凌云木，一名热爱技术和开源的24届准前端工程师 
 
 <div align="center">
     <span>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benn314&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" alt="Top Langs" height=180 style="border:0"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benn314&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" alt="Top Langs" height=190 style="border:0"/>
     </span>
     <span>
-        <img src="https://github-readme-stats.vercel.app/api?username=Benn314&show_icons=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" alt="Benn314's GitHub stats" height=180/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Benn314&show_icons=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" alt="Benn314's GitHub stats" height=190/>
     </span>
 </div>
 
